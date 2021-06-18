@@ -1,0 +1,7 @@
+.vscode/
+.idea/**
+*.iml
+
+node_modules/
+obj/
+bin/
